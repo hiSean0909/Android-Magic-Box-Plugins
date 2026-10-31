@@ -1,0 +1,4 @@
+AGENTS.md
+.secrets/
+*.keystore
+*.jks
