@@ -11,7 +11,7 @@ Magic Box plugins are independent offline extensions that can be imported into t
 | Function | Category | Description |
 | --- | --- | --- |
 | [2048](2048/README.md) | Game | Built into Magic Box |
-| [Ruler](ruler/README.md) | Tool | [Download](ruler/release/ruler-v1.0-release.zip) calibrated screen ruler |
+| [Ruler](ruler/README.md) | Tool | [Download](ruler/release/ruler-v1.1-release.zip) calibrated screen ruler |
 | [Display](display/README.md) | Tool | [Download](display/release/display-v1.1-release.zip) fullscreen scrolling message |
 | [Minesweeper](minesweeper/README.md) | Game | Built into Magic Box |
 | [Flappy Bird](flappy-bird/README.md) | Game | Built into Magic Box |
