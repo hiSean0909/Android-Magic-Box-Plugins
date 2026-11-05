@@ -1,7 +1,3 @@
 # Minesweeper
 
-Minesweeper is an offline Magic Box game with a 9 by 9 board and 10 mines.
-
-Tap a cell to reveal it and long-press to mark a suspected mine with a red flag. The game reports a win or loss and provides a New Game action.
-
-Import the ZIP package from `deliverables` into Magic Box.
+Minesweeper is built into Magic Box. Its source and package are maintained in the [Magic Box repository](https://github.com/hiSean0909/Android-Magic-Box/tree/main/plugins/built-in%20plugins/mine-sweeper). This directory is a placeholder.

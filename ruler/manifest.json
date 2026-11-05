@@ -1,0 +1,12 @@
+{
+  "id": "ruler",
+  "name": "Ruler",
+  "category": "tool",
+  "version": "1.0",
+  "entry": "index.html",
+  "hostApi": 1,
+  "pluginStandardVersion": "1.0",
+  "description": "Measure lengths with a calibrated screen ruler.",
+  "developer": "Official",
+  "official": true
+}

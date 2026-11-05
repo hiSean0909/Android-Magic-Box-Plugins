@@ -1,7 +1,3 @@
 # Flappy Bird
 
-Flappy Bird is an offline Magic Box game. Tap to make the bird rise and navigate around obstacles.
-
-The game displays the score and elapsed time, ends on collision, and provides a New Game action. Obstacle speed and difficulty increase over time. Pausing stops the timer, and starting a new game resets it.
-
-Import the ZIP package from `deliverables` into Magic Box.
+Flappy Bird is built into Magic Box. Its source and package are maintained in the [Magic Box repository](https://github.com/hiSean0909/Android-Magic-Box/tree/main/plugins/built-in%20plugins/flappy-bird). This directory is a placeholder.
