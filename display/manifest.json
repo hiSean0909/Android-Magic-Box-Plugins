@@ -2,11 +2,12 @@
   "id": "display",
   "name": "Display",
   "category": "tool",
-  "version": "1.0",
+  "version": "1.1",
   "entry": "index.html",
   "hostApi": 2,
   "pluginStandardVersion": "1.0",
   "description": "Show a scrolling message in fullscreen.",
   "developer": "Official",
-  "official": true
+  "official": true,
+  "icon": "icon.png"
 }
